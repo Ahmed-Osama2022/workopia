@@ -30,9 +30,6 @@ class Router
     exit;
   }
 
-
-
-
   /**
    * Add a GET route
    * The concept =>> "If the client visit a specific url, navigate him to this controller"
